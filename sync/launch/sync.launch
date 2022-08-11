@@ -1,0 +1,4 @@
+<!--XML-->
+<launch>
+  <node pkg="sync" type="main.py" output="screen" respawn="false" name="sync"/>
+</launch>
